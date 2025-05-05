@@ -1,4 +1,4 @@
-# Load necessary libraries
+
 library(quantmod)
 library(TTR)
 
